@@ -1,0 +1,31 @@
+.title__h1 {
+color: black;
+font-family: 'Courier New', Courier, monospace;
+font-size: 50px;
+text-align: center;
+}
+
+.fortune__cards{
+  background-color: white;
+  width: 400px;
+  height: 100px;
+  
+
+}
+
+.App{
+background-position: center;
+  box-sizing: content-box;
+  background-size: cover;
+  object-fit: cover;
+} 
+
+.button{
+  margin: 10px;
+  padding: auto;
+  color: black;
+  font-size: 25px;
+  background-color: aliceblue;
+  border-radius: 10px;
+
+}
